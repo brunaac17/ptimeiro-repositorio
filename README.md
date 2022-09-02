@@ -6,4 +6,4 @@ Para copiar o codigo em HTML:
   <h1>Meu primeiro HTML</h1>
 </html>  
 ´´´
-ptimeiro
+primeiro
