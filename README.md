@@ -1,6 +1,6 @@
 # ptimeiro-repositorio
 
-Para copir
+Para copiar o codigo em HTML:
 ´´´
 <html>
   <h1>Meu primeiro HTML</h1>
