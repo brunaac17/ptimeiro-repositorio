@@ -1,4 +1,4 @@
-# ptimeiro-repositorio
+# primeiro-repositorio
 
 Para copiar o codigo em HTML:
 ´´´
